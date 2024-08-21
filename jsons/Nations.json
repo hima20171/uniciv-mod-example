@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
+		"name": "The chosens",
+		"leaderName": "Ashen one",
 		"adjective": ["alien"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
@@ -29,7 +29,9 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"unique":  ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [500]% faster","[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory","Great General provides double combat bonus", "[Great General] is earned [50]% faster","[+100]% Production when constructing [All] wonders [in all cities]","[+4] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>","[+10 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced", "[+4] Sight <for [{Military} {Land}] units>", "[-100]% Gold cost of acquiring tiles [in all cities]", "No damage penalty for wounded units <for [non-[Air]] units>", [-100]% unhappiness from the number of cities", "[-100]% Unhappiness from [Population] [in all cities]", "When conquering an encampment, earn [200] Gold","[-100]% maintenance costs <for [Land] units>", "[-100]% maintenance costs <for [Water] units>", "[+20 Science] from every specialist [in all cities]", "[+20 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital", "[+500]% Golden Age length", "[+2] Movement <for [All] units> <during a Golden Age>", "[+100]% Strength <for [All] units> <during a Golden Age>", "[+500]% [Food] from City-States","[+500]% [Culture] from City-States","[+500]% [Faith] from City-States","Military Units gifted from City-States start with [+1000] XP", "[+1000 Gold] for discovering a Natural Wonder (bonus enhanced to [+5000 Gold] if first to discover it)",
+			"[+10 Happiness] for every known Natural Wonder", "[+500]% Yield from every [Natural Wonder]", "Receive triple Gold from Barbarian encampments and pillaging Cities", "Defense bonus when embarked <for [All] units>", "[{Military} {Land}] units gain the [Amphibious] promotion", "Units ignore terrain costs when moving into any tile with Hills","[-100]% maintenance on road & railroads","No Maintenance costs for improvements in [Hill] tiles", "[+5 Production] from every [Pasture]", "Cities are razed [2] times as fast", "Starts with [Animal Husbandry]","May choose [10] additional belief(s) of any type when [founding] a religion", ],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
