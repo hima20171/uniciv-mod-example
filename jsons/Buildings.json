@@ -2,7 +2,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "The chosens",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -15,11 +15,32 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "The chosens",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	},
+	{
+		"name": "Firelink shrine",
+               "replaces": "Monument",
+		"uniqueTo": "The chosens",
+		"culture": 20,
+		"faith": 20,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	        "name": "sunlight alter",
+		"replaces": "Shrine",
+		"uniqueTo": "The chosens",
+		"faith": 20,
+		"science": 20,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
 ]
